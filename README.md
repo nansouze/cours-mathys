@@ -14,6 +14,7 @@ Un petit résumé des différentes ressources présentent dans le programme rock
 - [Lofi Coders](https://open.spotify.com/playlist/0pGdGpMm84h2Jl6Q1KmTMn?si=r2PvhZU_R4aPW0O860rxZA)
 - [Lofi Café](https://open.spotify.com/playlist/37i9dQZF1DX9RwfGbeGQwP?si=eCGIEc9eTmyOgoBgKjof1g)
 - [Chillhop Radio](https://open.spotify.com/playlist/0CFuMybe6s77w6QQrJjW7d?si=nURelKdmQ2GHKAep2w5HrQ)
+- [Shhhnoise](https://www.shhhnoise.com/)
 
 ### 🧠 Apprendre à Apprendre
 
